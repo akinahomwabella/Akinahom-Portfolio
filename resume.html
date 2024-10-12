@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <meta name="description" content="Akinahom Wabella's Portfolio">
+    <meta name="author" content="Akinahom Wabella">
+    <title>Akinahom Wabella Portfolio</title>
+    <link rel="icon" type="image/x-icon" href="assets/favicon.ico">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <!-- Bootstrap Icons -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />
+    <style>
+        body {
+            background-color: #1a1a1a;
+            color: #f0f0f0;
+            font-family: 'Roboto', sans-serif;
+        }
+
+        .card {
+            background-color: #2a2a2a;
+            border: none;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+            margin-bottom: 20px;
+        }
+
+        .section-title, h4 {
+            color: #ff69b4; /* Pink color for headings */
+        }
+
+        /* Muted text for achievements and experience descriptions */
+        .text-muted-custom {
+            color: #b0b0b0;
+        }
+
+        /* Custom pink progress bars */
+        .progress-bar {
+            background-color: #ff69b4;
+        }
+
+        .skill-label {
+            font-weight: bold;
+        }
+
+        /* Adding margin to icons in headings */
+        .section-title i, h4 i {
+            margin-right: 8px;
+        }
+
+        /* Custom styles for hr (dividers) */
+        hr {
+            border-top: 1px solid #ff69b4;
+            opacity: 0.8;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container my-5">
+    <!-- Education Section Card -->
+    <div class="card mb-4">
+        <div class="card-body">
+            <div class="section-header">
+                <h2 class="section-title"><i class="bi bi-book"></i> Education</h2>
+                <hr class="mt-2">
+            </div>
+            <div class="education-content">
+                <h4><i class="bi bi-building"></i> Minnesota State University, Mankato</h4>
+                <p class="text-muted-custom">Expected Graduation: May 2026</p>
+                <p>Bachelor of Science in Computer Science and Statistics, minor in Mathematics.<br>
+                    GPA: 3.78<br>
+                    Larry Pearson Memorial Scholarship, International Maverick Scholarship
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Experiences Section Card -->
+    <div class="card mb-4">
+        <div class="card-body">
+            <div class="section-header">
+                <h2 class="section-title"><i class="bi bi-briefcase"></i> Experiences</h2>
+                <hr class="mt-2">
+            </div>
+            <!-- First Experience -->
+            <div class="experience-content">
+                <h4><i class="bi bi-tools"></i> Classroom Technology Support</h4>
+                <p class="text-muted-custom">July 2023 - Present</p>
+                <ul>
+                    <li>Repaired computers by testing and installing both software and hardware.</li>
+                    <li>Assisted with troubleshooting hardware and software issues.</li>
+                    <li>Provided customer service, technical support, and managed electronic systems and equipment.</li>
+                </ul>
+            </div>
+            <!-- Second Experience -->
+            <div class="experience-content">
+                <h4><i class="bi bi-code-slash"></i> CS and Math Curriculum Developer</h4>
+                <p class="text-muted-custom">January 2024 - May 2024</p>
+                <ul>
+                    <li>Created accessible programming curriculum empowering underrepresented groups to pursue further studies in CS and Math, leading to a 30% rise in course completion rates.</li>
+                    <li>Developed high-quality CS topics such as AR/VR using Minecraft as a teaching tool to engage students in hands-on learning.</li>
+                    <li>Successfully took 30 students to a tech summit at the end of the project, introducing them to emerging technologies under development.</li>
+                </ul>
+            </div>
+            <!-- Third Experience -->
+            <div class="experience-content">
+                <h4><i class="bi bi-graph-up"></i> Research Assistant - Predictive Heart Disease</h4>
+                <p class="text-muted-custom">January 2024 - May 2024</p>
+                <ul>
+                    <li>Implemented KNN and Regression to analyze patient health records and identify heart disease risk factors.</li>
+                    <li>Integrated different Neural Network algorithms to enhance the predictive capabilities of finding heart disease by 20%, particularly in elderly patients.</li>
+                </ul>
+            </div>
+
+            <!-- Fourth Experience - LeetCode Club -->
+            <div class="experience-content">
+                <h4><i class="bi bi-people"></i> LeetCode Club (Vice President)</h4>
+                <p class="text-muted-custom">August 2024 - Present</p>
+                <ul>
+                    <li>Empowered students to enhance problem-solving and coding skills through collaborative practice and continuous learning.</li>
+                    <li>Led coding challenges and technical interview preparation sessions to help members excel in competitive programming.</li>
+                    <li>Fostered a supportive community, developing a strong foundation in computer science for members.</li>
+                </ul>
+            </div>
+
+            <!-- Fifth Experience - DREAM (Data Resources for Eager & Analytical Minds) -->
+            <div class="experience-content">
+                <h4><i class="bi bi-bar-chart"></i> DREAM (Data Resources for Eager & Analytical Minds)</h4>
+                <p class="text-muted-custom">January 2024 - Present</p>
+                <ul>
+                    <li>Collaborated in a dynamic data science club aimed at fostering analytical skills in real-world applications.</li>
+                    <li>Organized workshops and seminars to educate members on cutting-edge techniques in data science.</li>
+                    <li>Facilitated collaborative projects focusing on data analysis, machine learning, and predictive modeling.</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <!-- Achievements Section Card -->
+    <div class="card mb-4">
+        <div class="card-body">
+            <div class="section-header">
+                <h2 class="section-title"><i class="bi bi-award"></i> Achievements</h2>
+                <hr class="mt-2">
+            </div>
+            <!-- First Achievement -->
+            <div class="achievement-content">
+                <h4><i class="bi bi-trophy"></i> Academic Data Science Alliance (ADSA '24)</h4>
+                <p class="text-muted-custom">Selected as one of 20 women across the US for a scholarship to attend the Academic Data Science Alliance conference.</p>
+                <ul>
+                    <li>Presented research to an audience of 100+ professionals, focusing on the societal impact of data science and AI.</li>
+                </ul>
+            </div>
+            <!-- Second Achievement -->
+            <div class="achievement-content">
+                <h4><i class="bi bi-graph-up-arrow"></i> Women in Statistics and Data Science (WSDS)</h4>
+                <p class="text-muted-custom">Selected to receive the WSDS 2024 Student Travel Award for the Women in Statistics and Data Science conference.</p>
+                <ul>
+                    <li>This recognition highlights my dedication to advancing diversity and excellence in statistics and data science.</li>
+                </ul>
+            </div>
+            <!-- Third Achievement -->
+            <div class="achievement-content">
+                <h4><i class="bi bi-lightbulb"></i> American Statistical Association (ASA)</h4>
+                <p class="text-muted-custom">Chosen as one of 50 participants from over 300 applicants to attend the prestigious ASA Diversity Mentorship Program.</p>
+                <ul>
+                    <li>Demonstrated exceptional promise in statistical research and leadership.</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <!-- My Skills Card -->
+    <div class="card mb-4">
+        <div class="card-body">
+            <h2 class="skills-title"><i class="bi bi-code-square"></i> Technical Skills</h2>
+            <hr class="mt-2">
+
+            <!-- Programming Languages -->
+            <h4><i class="bi bi-terminal"></i> Languages</h4>
+            <div class="skill">
+                <div class="d-flex justify-content-between">
+                    <span class="skill-label">Python, SQL, Java, JavaScript, R, C++, TypeScript, HTML/CSS</span>
+                    <span>70%</span>
+                </div>
+                <div class="progress">
+                    <div class="progress-bar" role="progressbar" style="width: 70%;" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
+                </div>
+            </div>
+
+            <!-- Frameworks -->
+            <h4><i class="bi bi-layers"></i> Frameworks</h4>
+            <div class="skill">
+                <div class="d-flex justify-content-between">
+                    <span class="skill-label">Next.js, React, Node.js, Flask, MongoDB, Django</span>
+                    <span>65%</span>
+                </div>
+                <div class="progress">
+                    <div class="progress-bar" role="progressbar" style="width: 65%;" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100"></div>
+                </div>
+            </div>
+
+            <!-- Developer Tools -->
+            <h4><i class="bi bi-tools"></i> Developer Tools</h4>
+            <div class="skill">
+                <div class="d-flex justify-content-between">
+                    <span class="skill-label">Google Cloud, AWS, Postgres, Git/GitHub, Jupyter, Tableau, Power BI</span>
+                    <span>70%</span>
+                </div>
+                <div class="progress">
+                    <div class="progress-bar" role="progressbar" style="width: 70%;" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
+                </div>
+            </div>
+
+            <!-- Libraries -->
+            <h4><i class="bi bi-collection"></i> Libraries</h4>
+            <div class="skill">
+                <div class="d-flex justify-content-between">
+                    <span class="skill-label">NumPy, Matplotlib, Pandas, Scikit-learn, Tensorflow, PyTorch, Keras</span>
+                    <span>75%</span>
+                </div>
+                <div class="progress">
+                    <div class="progress-bar" role="progressbar" style="width: 75%;" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Bootstrap JS -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+
+</body>
+</html>
