@@ -6,7 +6,10 @@ Welcome to my personal portfolio repository! This is a curated collection of my 
 
 ## **About Me**
 
-Hi, I'm Akinahom Wabella! I’m a data scientist and technologist with a strong foundation in statistics, machine learning, and cloud technologies. My projects focus on addressing real-world challenges through ethical and innovative applications of AI.
+Hi, I'm Akinahom Wabella! I’m a data scientist with an interest in statistics, machine learning, and cloud technologies. My projects focus on addressing real-world challenges through ethical and innovative applications of AI.
+
+My love and curiosity for numbers has led me to find a niche where I could always work on my problem solving skills, from working on math problems to listening more from mathematicians, my love for math has led to me to pursue tech in such way that I would love to make my numbers speak in innovative productions and make impact in daily lives.
+
 
 When I’m not crunching numbers or training models, you’ll likely find me enjoying jazz music, hiking outdoors, or reading books that inspire me to think differently.
 
