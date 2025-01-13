@@ -26,7 +26,7 @@ Here are some of the key projects showcased in this portfolio:
 - Designed a **numerical analysis-based framework** for imputing missing data in financial datasets.
 - Applied advanced interpolation techniques like Lagrange and Newton interpolation.
 - Improved the accuracy of financial forecasting models, including stock price prediction and risk assessment.
-- [Explore the project](https://github.com/Data-Imputation-Numerical-Analysis-in-Data-Science)
+- [Explore the project](https://github.com/akinahomwabella/Data-Imputation-Numerical-Analysis-in-Data-Science)
 
 ### **3. Stock Price Prediction**
 - Developed a pipeline that combined financial data from Alpha Vantage and Twitter sentiment analysis datasets to predict reliable stock price movements.
