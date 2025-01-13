@@ -1,64 +1,70 @@
-# Akinahom-s-Portfolio
-# Akinahom Wabella's Portfolio
+# **Akinahom Wabella's Portfolio**
 
-This is my personal portfolio website where I showcase the projects I’ve worked on, my skills in full-stack development and data science, and my professional achievements. It highlights my journey through the tech world, from web development to machine learning.
+Welcome to my personal portfolio repository! This is a curated collection of my work, showcasing my expertise in data science, machine learning, and innovative problem-solving. From tackling deepfake detection with real-time AI models to developing advanced data imputation frameworks, this portfolio reflects my passion for using data to make an impact.
 
-## Live Site
+---
 
-You can explore the live site here: [akinahom-wabella.netlify.app](https://akinahom-wabella.netlify.app)
+## **About Me**
 
-## About the Portfolio
+Hi, I'm Akinahom Wabella! I’m a data scientist and technologist with a strong foundation in statistics, machine learning, and cloud technologies. My projects focus on addressing real-world challenges through ethical and innovative applications of AI. 
 
-This portfolio serves as a central place to display my work and share my accomplishments in tech. You'll find sections about me, my current work, and detailed information on my various projects.
+When I’m not crunching numbers or training models, you’ll likely find me enjoying jazz music, hiking outdoors, or reading books that inspire me to think differently.
 
-### Key Features:
+---
 
-- **About Me**: A short introduction to who I am, my academic background, and my journey in tech.
-- **What I'm Doing**: A section showcasing my current projects and research efforts.
-- **Projects**: A collection of selected projects, including machine learning models, web applications, and AI-driven tools.
-- **Achievements**: A timeline of my awards, scholarships, and recognitions, such as being a presenter at ADSA'24 and participating in the ASA Mentorship Program.
+## **Projects**
 
-## Technologies Used
+Here are some of the key projects showcased in this portfolio:
 
-- **HTML5** for the website's structure.
-- **CSS3**, **Bootstrap 5** for styling and responsiveness.
-- **JavaScript** for dynamic content.
-- **Netlify** for deployment and hosting.
-- **Git** and **GitHub** for version control.
+### **1. Real-Time Deepfake Detection**
+- Developed a **real-time deepfake detection system** using a CNN-LSTM model.
+- Integrated **Grad-CAM++** for explainable AI, visualizing key features influencing model predictions.
+- Achieved high accuracy in identifying manipulated videos while ensuring model transparency.
+- [Explore the project](https://github.com/Deep_Fake_Detection)
 
-## How to View Locally
+### **2. Data Imputation Framework for Financial Analytics**
+- Designed a **numerical analysis-based framework** for imputing missing data in financial datasets.
+- Applied advanced interpolation techniques like Lagrange and Newton interpolation.
+- Improved the accuracy of financial forecasting models, including stock price prediction and risk assessment.
+- [Explore the project](https://github.com/Data-Imputation-Numerical-Analysis-in-Data-Science)
 
-If you'd like to run or modify this project locally, follow these steps:
+### **3.Stock Price Prediction**
+-Developed a pipeline that combined financial data from Alpha Vantage and Twitter sentiment analysis dataset to predict
+reliable stock price movements.
+-Achieved 98% accuracy in predicting stock prices using ML models such as LSTM and XGBoost.
+-- [Explore the project](https://github.com/Stock_Price_with_ML)
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/akinahom-wabella/portfolio.git
-2. Navigate into the project directory:
+### **3. LA Wildfire Assistance Data Science Platform**
+- Built a **data-driven platform** to assist communities during wildfires in Los Angeles.
+- Features include:
+  - **Inventory Management** for tracking emergency supplies.
+  - **Insurance Claim Analysis** to identify high-priority claims.
+  - **Multilingual Chatbot** for emergency communication.
+  - **Offline Data Syncing** for areas with limited internet connectivity.
+- [Explore the project](https://github.com/your-repo-link)
 
-     cd portfolio
-3. Open the index.html file in your browser: Just double-click the file or use a local server to serve the site.
+---
 
+## **Technical Skills**
+- **Programming Languages**: Python, R, SQL, C++
+- **Machine Learning**: TensorFlow, Keras, Scikit-learn
+- **Cloud Platforms**: Microsoft Azure, AWS
+- **Data Visualization**: Matplotlib, Seaborn, Tableau
+- **Other Tools**: Git, OpenCV, Jupyter Notebooks
 
-Deployment
-This portfolio is deployed on Netlify. You can deploy your version by following these steps:
+---
 
-Push your code to a GitHub repository.
-Connect your repository to Netlify and set the project for continuous deployment.
-Netlify will automatically build and host your site whenever you push changes to GitHub.
-For more information on deploying through Netlify, visit the Netlify documentation.
+## **How to Connect**
+- **GitHub**: [github.com/akinahom-wabella](https://github.com/akinahom-wabella)
+- **LinkedIn**: [linkedin.com/in/akinahom-wabella](https://linkedin.com/in/akinahom-wabella)
+- **Email**: [your.email@example.com](mailto:your.email@example.com)
 
-Contact
-LinkedIn: Akinahom Wabella
-GitHub: AkinahomWabella
-Email: akinahomwabella@icloud.com
-Feel free to connect with me through any of these platforms or reach out for collaboration opportunities!
+---
 
-vbnet
-Copy code
+## **License**
+This portfolio and its projects are licensed under the MIT License. Feel free to explore, contribute, or reach out with any questions.
 
-This `README.md` is tailored for your portfolio site and provides all essential details, including deployment steps and contact information. Let me know if you'd like to adjust or add anything!
+---
 
-
-
-
-
+**Thank you for visiting my portfolio!** Feel free to browse through my projects and connect with me to collaborate or discuss ideas.
+``
