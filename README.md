@@ -59,7 +59,7 @@ Here are some of the key projects showcased in this portfolio:
 ## **How to Connect**
 - **GitHub**: [github.com/akinahom-wabella](https://github.com/akinahom-wabella)
 - **LinkedIn**: [linkedin.com/in/akinahom-wabella](https://www.linkedin.com/in/akinahomwabella/)
-- **Email**: [your.email@example.com](mailto:akinahom.wabella@mnsu.edu)
+- **Email**: [akinahom.wabella@mnsu.edu](mailto:akinahom.wabella@mnsu.edu)
 
 ---
 
